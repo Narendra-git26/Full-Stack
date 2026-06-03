@@ -1,0 +1,34 @@
+h1{
+    font-family: "Arial";
+}
+p{
+    font-family: sans-serif;
+}
+
+body{
+    font-size: 20px;
+}
+
+#two{
+    font-size: 1.5em;
+    font-family: italic;
+}
+
+#two{
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+
+
+p{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: italic;
+}
+
+/* 1 em = 16px  */
+

@@ -1,0 +1,20 @@
+body{
+    background: gray;
+    background-repeat: no-repeat;
+}
+
+div{
+    background: white;
+    border-width: 5px;
+    border-color: blue;
+    border-style: double;
+}
+
+p{
+    color: black;
+}
+
+span{
+    background: black;
+    color: white;
+}
